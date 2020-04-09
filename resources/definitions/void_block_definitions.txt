@@ -1,0 +1,10 @@
+#defaults values for blocks
+default height:40 width:50 stroke:color(black)
+#block definitions
+bdef symbol:a hit_points:4 fill:image(block_images/broodlord.jpg)
+bdef symbol:b hit_points:3 fill:image(block_images/hydra.jpg)
+bdef symbol:c hit_points:2 fill:image(block_images/roace.jpg)
+bdef symbol:d hit_points:1 fill:image(block_images/zegling.jpg)
+# spacers definitions
+
+sdef symbol:- width:0

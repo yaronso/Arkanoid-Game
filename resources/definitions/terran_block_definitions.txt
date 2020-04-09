@@ -1,0 +1,11 @@
+#defaults values for blocks
+default height:40 width:50 
+#block definitions
+bdef symbol:a hit_points:10 fill:image(block_images/tank.jpg) stroke:color(red)
+bdef symbol:b hit_points:6 fill:image(block_images/liberator.jpg) stroke:color(blue)
+bdef symbol:c hit_points:4 fill:image(block_images/medivac.jpg) stroke:color(green)
+bdef symbol:d hit_points:3 fill:image(block_images/marauder.jpg) stroke:color(black)
+bdef symbol:e hit_points:2 fill:image(block_images/marine.jpg) stroke:color(black)
+# spacers definitions
+
+sdef symbol:- width:0
